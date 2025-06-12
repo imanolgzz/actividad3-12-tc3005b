@@ -1,2 +1,3 @@
-# actividad3-12-tc3005b
-M3 - Ejercicio 12: CI/CD - GitHub Actions
+# M3 - Ejercicio 12: CI/CD - Github Actions
+
+Imanol Armando González Solís A00835759
